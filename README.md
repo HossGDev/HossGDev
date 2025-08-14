@@ -22,24 +22,7 @@ I’m a self-taught developer who built **Busy Dad Brogram**, a live web app off
 
 - **Other Projects**: Explore my self-taught work at my [portfolio](https://my-portfolio-delta-one-49.vercel.app/).
 
----
 
-## 📊 Learning Progress Tracker
-
-Preparing to master full-stack development with my AAS program:
-
-| Course | Focus | Progress | % Complete |
-|--------|-------|----------|------------|
-| **Introduction to Programming with Python** | Core programming, problem-solving | [ ] | 0% |
-| **Data Structures & Algorithms in Python** | Algorithm efficiency, data structures | [ ] | 0% |
-| **Object-Oriented Programming in Python** | Modular code, OOP principles | [ ] | 0% |
-| **Web Fundamentals & Flask** | Web apps, Flask framework | [ ] | 0% |
-| **RESTful API Development with Flask** | API design, CRUD operations | [ ] | 0% |
-| **Databases: SQL & NoSQL** | Database management, integration | [ ] | 0% |
-
-> 💡 **How to Update**: Edit the `% Complete` column (e.g., `0%` to `50%`) and add `█` for each 10% (e.g., `[█████ 50%]`).
-
----
 
 ## 🛠️ Skills & Tech Stack (Current & Planned)
 
