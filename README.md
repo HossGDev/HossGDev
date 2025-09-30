@@ -13,30 +13,25 @@
 ---
 
 ## 🔹 About Me
-I’m a self-taught developer passionate about building **user-friendly web applications**. My current focus is **React**, **Vite**, and **FantaCSS**, and I’m expanding my backend skills with **Flask**, **RESTful APIs**, and databases through my **AAS in AI Software Engineering** at The AI University.  
+I’m a self-taught developer passionate about building user-friendly, AI-powered applications. My focus is on Python, full-stack development, and AI software engineering, with hands-on experience using Flask, FastAPI, RESTful APIs, and databases.
 
-I enjoy creating solutions that are **scalable, practical, and impactful**.
+Currently, I’m expanding my skills through my AAS in AI Software Engineering at The Maestro University, where I’m learning to design scalable, practical, and impactful solutions that combine AI and web development.
 
+I enjoy creating projects that bridge AI with full-stack applications, solving real-world problems and continuously improving my coding expertise.
 ---
 
-## 🚀 Portfolio Highlights
 
-### Busy Dad Brogram
-A responsive web app delivering **30 simple workouts for busy dads**, built with **Vite** and **React**.  
-
-> 🔍 *Skills Used:* Vite, React, JavaScript, FantaCSS  
-> 📂 *Live App:* [https://busy-dad-brogram.vercel.app/](https://busy-dad-brogram.vercel.app/)
-
-### Other Projects
-Check out my self-taught work and upcoming projects at my [portfolio](https://my-portfolio-delta-one-49.vercel.app/).
+### Portfolio
+Check out my self-taught work and upcoming projects at my [portfolio](https://HossGDev.com).
 
 ---
-
 ## 🛠️ Skills & Tech Stack
 
 | Domain                     | Core Competencies                          | Tech Stack                                                                 |
 |----------------------------|-------------------------------------------|---------------------------------------------------------------------------|
-| **Full-Stack Foundations** | Web apps, UI development                  | ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&style=flat-square) |
-| **Backend Development**    | APIs, Databases, Authentication            | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square) |
-| **DevOps & Tools**         | Version control, Containers               | ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-
+| **Python & Full-Stack**     | Web apps, backend development             | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=flat-square) ![RESTful API](https://img.shields.io/badge/RESTful_API-FF6F61?style=flat-square) |
+| **Frontend Basics**         | UI development, web interfaces            | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat-square) |
+| **Databases**               | SQL & NoSQL fundamentals                  | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square) |
+| **AI & Machine Learning**   | ML basics, LLMs, AI projects              | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=flat-square) |
+| **Professional Skills**     | Communication, branding, career prep      | ![Public Speaking](https://img.shields.io/badge/Public_Speaking-FFD700?style=flat-square) ![Branding](https://img.shields.io/badge/Branding-FF69B4?style=flat-square) |
+| **DevOps & Tools**          | Version control, deployment, testing      | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&style=flat-square) |
