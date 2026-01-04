@@ -26,3 +26,10 @@
 ---
 
 ## Currently Learning (Maestro Curriculum)
+
+**Full curriculum**: [AAS AI Software Engineering → BS Computer Science & Business](https://maestro.org/academic-programs)
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects%20Coming-F44336?style=flat-square&logo=book)](https://HossGDev.com)
+
