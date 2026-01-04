@@ -21,11 +21,18 @@
 | **Software Engineering** | OOP, Data Structures, Algorithms | Python OOP, Git Version Control |
 | **Dev Practices** | Testing, Documentation, Deployment | Software Engineering Principles |
 
-**Current Progress**: PY101 Python Fundamentals → Flask Backend → React Frontend → AI Capstone
-
----
 
 ## Currently Learning (Maestro Curriculum)
+PY101: Introduction to Python Programming ← STARTING JAN 5
+CS101: Software Engineering Principles
+PSYC100: General Psychology
+↓
+Web Fundamentals & Flask APIs
+↓
+React Interactive UIs
+↓
+Applied AI Capstone Project
+
 
 **Full curriculum**: [AAS AI Software Engineering → BS Computer Science & Business](https://maestro.org/academic-programs)
 
