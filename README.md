@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Enrolled%20Jan%202026-3776AB?logo=calendar&style=flat-square" />
 </p>
 
+
 # Hoss Gassaway
 **Maestro University BS Computer Science (Business & AI Pathway)**  
 *Enrolled January 2026 | Python Backend | Flask APIs | React Frontend | AI Systems*
